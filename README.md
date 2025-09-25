@@ -20,8 +20,8 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <ul>
-  <li>🔭 I’m currently learning full-stack development</li>
-  <li>💡 I enjoy solving problems and building useful applications</li>
+  <li>🔭 </li>
+  <li>💡 </li>
   <li>📫 Reach me at: <strong>margaritaistaykova@gmail.com</strong></li>
 </ul>
 
