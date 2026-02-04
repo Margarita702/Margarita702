@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <!-- Replace href links with your actual profiles -->
-  <a href="https://www.linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/margarita-staykova-07a9413a1/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin badge" />
   </a>
   <a href="mailto:margaritaistaykova@gmail.com">
