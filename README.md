@@ -4,16 +4,12 @@
 - 📫 How to reach me **margaritaistaykova@gmail.com**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/margarita-staykova/" target="_blank">
+<a href="https://www.linkedin.com/in/margarita-staykova-07a9413a1/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
 <a href="https://stackoverflow.com/users/32315374" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/margarita.staykova" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 
 <a href="https://instagram.com/margarita_staykova" target="_blank">
