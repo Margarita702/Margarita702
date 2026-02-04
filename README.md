@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Margarita Staykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Margarita Staykova" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/margarita-staykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Margarita Staykova" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/32315374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32315374" height="30" width="40" /></a>
 <a href="https://fb.com/Margarita Staykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Margarita Staykova" height="30" width="40" /></a>
 <a href="https://instagram.com/margarita_staykova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="margarita_staykova" height="30" width="40" /></a>
