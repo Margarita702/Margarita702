@@ -49,12 +49,6 @@
 
 <br />
 
-<h3 align="left">📊 My GitHub Stats:</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=margarita702&show_icons=true&locale=en&theme=default" height="180" alt="GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=margarita702&show_icons=true&locale=en&layout=compact&theme=default" height="130" alt="Top Languages" />
-</div>
 
-<br />
+
